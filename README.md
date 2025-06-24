@@ -1,2 +1,3 @@
 # Resume
- https://seekerlax.github.io/Resume/ 
+
+https://github.com/seekerLax/Resume
