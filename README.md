@@ -1,2 +1,2 @@
 # Resume
- https://seekerlax.github.io/Resume/ -project url
+ https://seekerlax.github.io/Resume/ 
