@@ -1,3 +1,2 @@
-# Resume
-
-Project-url: https://seekerlax.github.io/Resume/
+## Live Demo
+ https://seekerlax.github.io/Resume/
