@@ -1,2 +1,2 @@
-## Project URL
- https://seekerlax.github.io/Resume/
+
+Live Demo : https://seekerlax.github.io/Resume/
