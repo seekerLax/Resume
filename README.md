@@ -3,6 +3,6 @@
 
 This is a simple resume website built using HTML and CSS.
 
-## 🚀 Live Demo
+## 🚀 Project URL
 
-https://seekerlax.github.io/Resume/
+Project URL : https://seekerlax.github.io/Resume/
